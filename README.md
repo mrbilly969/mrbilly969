@@ -1,57 +1,48 @@
-👋 Hi, I’m mr Billy - Data Engineer (ETL) and ☕ lover.
+I👋 Hi, I’m mr Billy - Data Engineer (ETL) and ☕ lover.
 
 
 Welcome visitor!
 
-
 📌 Some arrays & funct about me:
 
+  I'm a Data Engineer, ETL Specialist.
+  +11 experienced years building pipelines, data & workflows.
 
-            # I´m a proud linux fan 🐧
+             def be_awsome():
+              I use Arch btw... 🙋‍♂️ 🖖 🟦
+
+            Clients = {
+               Minecraft, Microsoft 🎮,
+               US Venture 🛢️,
+               CDW 🖥️,
+               Gallagher insurance 🛟
+               Wolters Kluwer ⚖️
+               Microsoft 🖱️
+               }
+
+            Clouds ☁️ & tools 🔨 = {
+               Azure,
+               Snowflake, 
+               Databricks,
+               AWS
+               }
             
+            Programming languages = {
+               Linux,
+               PowerShell,
+               Terraform,
+               Azure-pipelines.yml,
+               SQL,
+               Python,
+               }
+
+            # Proud linux fan 🐧           
             
-            be_awsome():
-              I use Arch btw... 🙋‍♂️ 🖖 🟦;
-              sleep 3;
+            def Regex_use🐸():
+              df.filter("So darn good.")
               
-            Enterprise knowledge 🛰️:{
-              - Azure [Databricks, Datafactory, Notebooks],
-              - Oracle [Database],
-              - AWS [RDS]
-            };              
 
-            Shell - CLI 🐢: {
-              Bash,
-              Anaconda,
-              Powershell,
-            };
-            
-            Regex 🐸():
-              print("So darn good.")
-              
-            SQL 🏗️ 🧱: {
-              Postgress,
-              SQL Alchemy,
-              SQLite3
-            };
-              
-            Mostly:
-            Python 🐍: {
-              
-              Visualization 🦄:{
-                Tkinter,
-                Flask,
-                Pyplot
-              };
-              
-              Data Analysis 🐼: {
-                Pandas,
-                Numpy,
-                Dask
-             }};
-
-
-♑ Capricorn - just in case you wonder
+  ♑ Capricorn - just in case you wonder
 
 <!---
 mrbilly969/mrbilly969 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
